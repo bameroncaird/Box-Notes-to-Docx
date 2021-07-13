@@ -1,7 +1,3 @@
-This project was an attempt to convert all the Box Notes from a given directory in Box to docx format
+This project was an attempt to convert all the Box Notes from a given directory in Box to docx format as the university transferred all of its files from Box to OneDrive. I was working as a web developer for the [Mizzou Career Center](https://career.missouri.edu/) and tried to help out. Unfortunately I failed.
 
-I failed but learned some python
-
-the problem is that the images in the html file that I create are specified by absolute URLs to a Box shared link, need them on the file system
-
-I raised an issue on the guy's Github and if I have time at work with nothing else to do, this is something to build then
+The problem was that the images in the .html file that I create are specified by absolute URLs to a Box shared link, need them on the file system; the URLs cannot be accessed properly by my script and I was not sure how to fix that.
